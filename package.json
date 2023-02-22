@@ -1,0 +1,25 @@
+{
+  "name": "api-camishop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAngelDevlp/API-camishop.git"
+  },
+  "author": "Miguel Angel Moya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelAngelDevlp/API-camishop/issues"
+  },
+  "homepage": "https://github.com/MiguelAngelDevlp/API-camishop#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}

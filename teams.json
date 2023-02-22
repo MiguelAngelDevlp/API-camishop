@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "team_name": "Delmor",
+        "price": "1.50€",
+        "img": "http://dummyimage.com/212x100.png/dddddd/000000"
+    },
+    {
+        "id": 2,
+        "team_name": "Jordan",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/157x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 3,
+        "team_name": "Pollyanna",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/148x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 4,
+        "team_name": "Tedie",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/233x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 5,
+        "team_name": "Jourdain",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/142x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 6,
+        "team_name": "Francoise",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/161x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 7,
+        "team_name": "Catherina",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/220x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 8,
+        "team_name": "Delaney",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/142x100.png/dddddd/000000"
+    },
+    {
+        "id": 9,
+        "team_name": "Charlene",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/156x100.png/dddddd/000000"
+    },
+    {
+        "id": 10,
+        "team_name": "Wallis",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/227x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 11,
+        "team_name": "Hollis",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/194x100.png/dddddd/000000"
+    },
+    {
+        "id": 12,
+        "team_name": "Maxie",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/168x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 13,
+        "team_name": "Fair",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/212x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 14,
+        "team_name": "Rafaellle",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/117x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 15,
+        "team_name": "Gunar",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/194x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 16,
+        "team_name": "Skye",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/211x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 17,
+        "team_name": "Bevin",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/210x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 18,
+        "team_name": "Alfy",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/181x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 19,
+        "team_name": "Gerianna",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/192x100.png/dddddd/000000"
+    },
+    {
+        "id": 20,
+        "team_name": "Riley",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/123x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 21,
+        "team_name": "Brena",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/108x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 22,
+        "team_name": "Maiga",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/221x100.png/dddddd/000000"
+    },
+    {
+        "id": 23,
+        "team_name": "Theobald",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/148x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 24,
+        "team_name": "Chilton",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/201x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 25,
+        "team_name": "Pascal",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/136x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 26,
+        "team_name": "Salmon",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/145x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 27,
+        "team_name": "Elton",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/119x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 28,
+        "team_name": "Lilah",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 29,
+        "team_name": "Kris",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/123x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 30,
+        "team_name": "Forest",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/244x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 31,
+        "team_name": "Gertie",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/220x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 32,
+        "team_name": "Dennie",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/111x100.png/dddddd/000000"
+    },
+    {
+        "id": 33,
+        "team_name": "Reta",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/149x100.png/dddddd/000000"
+    },
+    {
+        "id": 34,
+        "team_name": "Halimeda",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/242x100.png/dddddd/000000"
+    },
+    {
+        "id": 35,
+        "team_name": "Moritz",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/228x100.png/dddddd/000000"
+    },
+    {
+        "id": 36,
+        "team_name": "Lewes",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 37,
+        "team_name": "Claiborn",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/126x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 38,
+        "team_name": "Reamonn",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/231x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 39,
+        "team_name": "Ripley",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/108x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 40,
+        "team_name": "Sylvia",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 41,
+        "team_name": "Charita",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/197x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 42,
+        "team_name": "Phyllys",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/123x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 43,
+        "team_name": "Marybeth",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/160x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 44,
+        "team_name": "Sterling",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/142x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 45,
+        "team_name": "Hamish",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/189x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 46,
+        "team_name": "Kata",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/195x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 47,
+        "team_name": "Shell",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/232x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 48,
+        "team_name": "Charmine",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/245x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 49,
+        "team_name": "Katya",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/192x100.png/dddddd/000000"
+    },
+    {
+        "id": 50,
+        "team_name": "Lorain",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/187x100.png/dddddd/000000"
+    },
+    {
+        "id": 51,
+        "team_name": "Nerte",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/145x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 52,
+        "team_name": "Ozzie",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/160x100.png/dddddd/000000"
+    },
+    {
+        "id": 53,
+        "team_name": "Dukie",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/193x100.png/dddddd/000000"
+    },
+    {
+        "id": 54,
+        "team_name": "Quinn",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/211x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 55,
+        "team_name": "Fedora",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/233x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 56,
+        "team_name": "Roxie",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/156x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 57,
+        "team_name": "Marwin",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/155x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 58,
+        "team_name": "Tyler",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/161x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 59,
+        "team_name": "Kara",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/230x100.png/dddddd/000000"
+    },
+    {
+        "id": 60,
+        "team_name": "Diarmid",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/223x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 61,
+        "team_name": "Gracia",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/145x100.png/dddddd/000000"
+    },
+    {
+        "id": 62,
+        "team_name": "Iggy",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/145x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 63,
+        "team_name": "Holden",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/210x100.png/dddddd/000000"
+    },
+    {
+        "id": 64,
+        "team_name": "Nanice",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/128x100.png/dddddd/000000"
+    },
+    {
+        "id": 65,
+        "team_name": "Joe",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/107x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 66,
+        "team_name": "Gerrard",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/199x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 67,
+        "team_name": "Jeffrey",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/233x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 68,
+        "team_name": "Arlyn",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/209x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 69,
+        "team_name": "Tyrus",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/197x100.png/dddddd/000000"
+    },
+    {
+        "id": 70,
+        "team_name": "Judas",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/151x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 71,
+        "team_name": "Hilde",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/103x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 72,
+        "team_name": "Tarra",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/233x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 73,
+        "team_name": "Ewan",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/132x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 74,
+        "team_name": "Bert",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/208x100.png/dddddd/000000"
+    },
+    {
+        "id": 75,
+        "team_name": "Murdock",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/198x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 76,
+        "team_name": "Zerk",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/142x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 77,
+        "team_name": "Dorolisa",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/136x100.png/dddddd/000000"
+    },
+    {
+        "id": 78,
+        "team_name": "Modesty",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/219x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 79,
+        "team_name": "Blaine",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/204x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 80,
+        "team_name": "Florry",
+        "price": "error: undefined method `*' for nil:NilClass",
+        "img": "http://dummyimage.com/248x100.png/dddddd/000000"
+    }
+]
