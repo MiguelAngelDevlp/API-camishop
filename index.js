@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const PORT = 3000;
+const cors = require('cors');
 
 const teams = require("./teams.json");
 
@@ -14,6 +15,7 @@ app.get("/:id", (request, response) => {
     response.status(200).send({response: true, teams: results});
 });
 
+app.use(cors());
 app.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}...`);
 });
