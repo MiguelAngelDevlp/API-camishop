@@ -1,482 +1,565 @@
 [
     {
         "id": 1,
-        "team_name": "Delmor",
-        "price": "1.50€",
-        "img": "http://dummyimage.com/212x100.png/dddddd/000000"
+        "team_name": "Barcelona",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152185/IMG-4798_jnbpkv.jpg"
     },
     {
         "id": 2,
-        "team_name": "Jordan",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/157x100.png/cc0000/ffffff"
+        "team_name": "Real Madrid",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152306/IMG-4802_xuyvw8.jpg"
     },
     {
         "id": 3,
-        "team_name": "Pollyanna",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/148x100.png/cc0000/ffffff"
+        "team_name": "Real Sociedad",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677155994/71f4ca0eed64d9e6cc760bc1476d646658554080_slt1eh.jpg"
     },
     {
         "id": 4,
-        "team_name": "Tedie",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/233x100.png/ff4444/ffffff"
+        "team_name": "Atlético de Madrid",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152167/IMG-4795_xqpuuv.jpg"
     },
     {
         "id": 5,
-        "team_name": "Jourdain",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/142x100.png/cc0000/ffffff"
+        "team_name": "Real Betis",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677155965/camiseta-hummel-real-betis-balompie-primera-equipacion-2022-2023-nino-jelly-bean-0_dntbex.jpg"
     },
     {
         "id": 6,
-        "team_name": "Francoise",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/161x100.png/ff4444/ffffff"
+        "team_name": "Rayo Vallecano",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156054/camiseta-umbro-rayo-vallecano-de-madrid-primera-equipacion-2021-2022-blanco-rojo-0_jm3c4q.jpg"
     },
     {
         "id": 7,
-        "team_name": "Catherina",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/220x100.png/cc0000/ffffff"
+        "team_name": "Athletic Club",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156075/athletic-club-home-shirt-junior-22-23-rjbl-2022-2023_oohuwr.jpg"
     },
     {
         "id": 8,
-        "team_name": "Delaney",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/142x100.png/dddddd/000000"
+        "team_name": "Mallorca",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152350/IMG-4815_yugyh5.jpg"
     },
     {
         "id": 9,
-        "team_name": "Charlene",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/156x100.png/dddddd/000000"
+        "team_name": "Villarreal",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152285/IMG-4806_i8efh8.jpg"
     },
     {
         "id": 10,
-        "team_name": "Wallis",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/227x100.png/cc0000/ffffff"
+        "team_name": "Oosasuna",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156098/Jerseys-Osasuna-2014-2015-Osasuna-Adidas-Home-Football-Shirt--Kids--l_jnvn8g.jpg"
     },
     {
         "id": 11,
-        "team_name": "Hollis",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/194x100.png/dddddd/000000"
+        "team_name": "Girona",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156401/camiseta-puma-girona-fc-primera-equipacion-2022-2023-nino-high-risk-red-white-0_ayqcu6.jpg"
     },
     {
         "id": 12,
-        "team_name": "Maxie",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/168x100.png/ff4444/ffffff"
+        "team_name": "Sevilla",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152332/IMG-4812_okkm5z.jpg"
     },
     {
         "id": 13,
-        "team_name": "Fair",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/212x100.png/ff4444/ffffff"
+        "team_name": "Espanyol",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152340/IMG-4814_xbyn4z.jpg"
     },
     {
         "id": 14,
-        "team_name": "Rafaellle",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/117x100.png/cc0000/ffffff"
+        "team_name": "Celta de Vigo",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156420/camiseta-adidas-rc-celta-de-vigo-primera-equipacion-2022-2023-cyan-0_jryos8.jpg"
     },
     {
         "id": 15,
-        "team_name": "Gunar",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/194x100.png/ff4444/ffffff"
+        "team_name": "Valladolid",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156171/camiseta-adidas-real-valladolid-club-de-futbol-primera-equipacion-2021-2022-nino-purple-white-0_hhij8y.jpg"
     },
     {
         "id": 16,
-        "team_name": "Skye",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/211x100.png/cc0000/ffffff"
+        "team_name": "Getafe",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156192/AC102560A722_1_vpzuv9.jpg"
     },
     {
         "id": 17,
-        "team_name": "Bevin",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/210x100.png/cc0000/ffffff"
+        "team_name": "Almeria",
+        "price": "",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156201/TM2630_FIERY_RED_1_970x_ffgyl1.jpg"
     },
     {
         "id": 18,
-        "team_name": "Alfy",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/181x100.png/ff4444/ffffff"
+        "team_name": "Cadiz",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156210/camiseta-adidas-cadiz-cf-primera-equipacion-2020-2021-amarillo-0_ymsegf.jpg"
     },
     {
         "id": 19,
-        "team_name": "Gerianna",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/192x100.png/dddddd/000000"
+        "team_name": "Valencia",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152297/IMG-4804_rkdekg.jpg"
     },
     {
         "id": 20,
-        "team_name": "Riley",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/123x100.png/5fa2dd/ffffff"
+        "team_name": "Elche",
+        "price": "25€",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156224/frontal-1_uk1zz1.jpg"
     },
     {
         "id": 21,
-        "team_name": "Brena",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/108x100.png/5fa2dd/ffffff"
+        "team_name": "Arsenal",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 22,
-        "team_name": "Maiga",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/221x100.png/dddddd/000000"
+        "team_name": "Man City",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 23,
-        "team_name": "Theobald",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/148x100.png/cc0000/ffffff"
+        "team_name": "Tottenham",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 24,
-        "team_name": "Chilton",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/201x100.png/cc0000/ffffff"
+        "team_name": "Newcastle",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 25,
-        "team_name": "Pascal",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/136x100.png/ff4444/ffffff"
+        "team_name": "Man United",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 26,
-        "team_name": "Salmon",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/145x100.png/cc0000/ffffff"
+        "team_name": "Fulham",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 27,
-        "team_name": "Elton",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/119x100.png/cc0000/ffffff"
+        "team_name": "Brighton",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 28,
-        "team_name": "Lilah",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/143x100.png/cc0000/ffffff"
+        "team_name": "Liverpoll",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 29,
-        "team_name": "Kris",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/123x100.png/ff4444/ffffff"
+        "team_name": "Brentford",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 30,
-        "team_name": "Forest",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/244x100.png/ff4444/ffffff"
+        "team_name": "Chelsea",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 31,
-        "team_name": "Gertie",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/220x100.png/5fa2dd/ffffff"
+        "team_name": "Aston Villa",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 32,
-        "team_name": "Dennie",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/111x100.png/dddddd/000000"
+        "team_name": "Crystal Palace",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 33,
-        "team_name": "Reta",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/149x100.png/dddddd/000000"
+        "team_name": "Nottinham Forest",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 34,
-        "team_name": "Halimeda",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/242x100.png/dddddd/000000"
+        "team_name": "Leicester City",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 35,
-        "team_name": "Moritz",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/228x100.png/dddddd/000000"
+        "team_name": "Wolves",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 36,
-        "team_name": "Lewes",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
+        "team_name": "Everton",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 37,
-        "team_name": "Claiborn",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/126x100.png/cc0000/ffffff"
+        "team_name": "Bournemouth",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 38,
-        "team_name": "Reamonn",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/231x100.png/cc0000/ffffff"
+        "team_name": "West Ham",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 39,
-        "team_name": "Ripley",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/108x100.png/5fa2dd/ffffff"
+        "team_name": "Leeds United",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 40,
-        "team_name": "Sylvia",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
+        "team_name": "Southampton",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 41,
-        "team_name": "Charita",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/197x100.png/cc0000/ffffff"
+        "team_name": "Napoli",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 42,
-        "team_name": "Phyllys",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/123x100.png/cc0000/ffffff"
+        "team_name": "Inter",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 43,
-        "team_name": "Marybeth",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/160x100.png/ff4444/ffffff"
+        "team_name": "Roma",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 44,
-        "team_name": "Sterling",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/142x100.png/cc0000/ffffff"
+        "team_name": "Lazio",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 45,
-        "team_name": "Hamish",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/189x100.png/cc0000/ffffff"
+        "team_name": "Atalanta",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 46,
-        "team_name": "Kata",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/195x100.png/ff4444/ffffff"
+        "team_name": "Juventus",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 47,
-        "team_name": "Shell",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/232x100.png/ff4444/ffffff"
+        "team_name": "Bologna",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 48,
-        "team_name": "Charmine",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/245x100.png/5fa2dd/ffffff"
+        "team_name": "Torino",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 49,
-        "team_name": "Katya",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/192x100.png/dddddd/000000"
+        "team_name": "Udinese",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 50,
-        "team_name": "Lorain",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/187x100.png/dddddd/000000"
+        "team_name": "Monza",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 51,
-        "team_name": "Nerte",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/145x100.png/cc0000/ffffff"
+        "team_name": "Empoli",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 52,
-        "team_name": "Ozzie",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/160x100.png/dddddd/000000"
+        "team_name": "Lecce",
+        "price": "25€",
+        "img": ""
     },
     {
         "id": 53,
-        "team_name": "Dukie",
+        "team_name": "Fiorentina",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/193x100.png/dddddd/000000"
+        "img": ""
     },
     {
         "id": 54,
-        "team_name": "Quinn",
+        "team_name": "Sassuolo",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/211x100.png/5fa2dd/ffffff"
+        "img": ""
     },
     {
         "id": 55,
-        "team_name": "Fedora",
+        "team_name": "Salernitana",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/233x100.png/cc0000/ffffff"
+        "img": ""
     },
     {
         "id": 56,
-        "team_name": "Roxie",
+        "team_name": "Spezia",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/156x100.png/5fa2dd/ffffff"
+        "img": ""
     },
     {
         "id": 57,
-        "team_name": "Marwin",
+        "team_name": "Verona",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/155x100.png/5fa2dd/ffffff"
+        "img": ""
     },
     {
         "id": 58,
-        "team_name": "Tyler",
+        "team_name": "Sampdoria",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/161x100.png/5fa2dd/ffffff"
+        "img": ""
     },
     {
         "id": 59,
-        "team_name": "Kara",
+        "team_name": "Cremonese",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/230x100.png/dddddd/000000"
+        "img": ""
     },
     {
         "id": 60,
-        "team_name": "Diarmid",
+        "team_name": "Milan",
         "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/223x100.png/cc0000/ffffff"
+        "img": ""
     },
     {
         "id": 61,
-        "team_name": "Gracia",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/145x100.png/dddddd/000000"
-    },
-    {
+        "team-name": "PSG",
+        "price": "€6,06",
+        "img": ""
+      }, {
         "id": 62,
-        "team_name": "Iggy",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/145x100.png/5fa2dd/ffffff"
-    },
-    {
+        "team-name": "Marseille",
+        "price": "€9,67",
+        "img": ""
+      }, {
         "id": 63,
-        "team_name": "Holden",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/210x100.png/dddddd/000000"
-    },
-    {
+        "team-name": "Monaco",
+        "price": "€9,62",
+        "img": ""
+      }, {
         "id": 64,
-        "team_name": "Nanice",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/128x100.png/dddddd/000000"
-    },
-    {
+        "team-name": "Lens",
+        "price": "€0,53",
+        "img": ""
+      }, {
         "id": 65,
-        "team_name": "Joe",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/107x100.png/5fa2dd/ffffff"
-    },
-    {
+        "team-name": "Rennes",
+        "price": "€7,87",
+        "img": ""
+      }, {
         "id": 66,
-        "team_name": "Gerrard",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/199x100.png/ff4444/ffffff"
-    },
-    {
+        "team-name": "LOSC",
+        "price": "€4,99",
+        "img": ""
+      }, {
         "id": 67,
-        "team_name": "Jeffrey",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/233x100.png/cc0000/ffffff"
-    },
-    {
+        "team-name": "Lorient",
+        "price": "€8,74",
+        "img": ""
+      }, {
         "id": 68,
-        "team_name": "Arlyn",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/209x100.png/5fa2dd/ffffff"
-    },
-    {
+        "team-name": "Lyon",
+        "price": "€5,07",
+        "img": ""
+      }, {
         "id": 69,
-        "team_name": "Tyrus",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/197x100.png/dddddd/000000"
-    },
-    {
+        "team-name": "Nice",
+        "price": "€0,60",
+        "img": ""
+      }, {
         "id": 70,
-        "team_name": "Judas",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/151x100.png/5fa2dd/ffffff"
-    },
-    {
+        "team-name": "Reims",
+        "price": "€1,89",
+        "img": ""
+      }, {
         "id": 71,
-        "team_name": "Hilde",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/103x100.png/ff4444/ffffff"
-    },
-    {
+        "team-name": "Toulouse",
+        "price": "€7,57",
+        "img": ""
+      }, {
         "id": 72,
-        "team_name": "Tarra",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/233x100.png/5fa2dd/ffffff"
-    },
-    {
+        "team-name": "Clermont Foot",
+        "price": "€0,49",
+        "img": ""
+      }, {
         "id": 73,
-        "team_name": "Ewan",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/132x100.png/cc0000/ffffff"
-    },
-    {
+        "team-name": "Nantes",
+        "price": "€6,26",
+        "img": ""
+      }, {
         "id": 74,
-        "team_name": "Bert",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/208x100.png/dddddd/000000"
-    },
-    {
+        "team-name": "Montpellier",
+        "price": "€7,59",
+        "img": ""
+      }, {
         "id": 75,
-        "team_name": "Murdock",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/198x100.png/ff4444/ffffff"
-    },
-    {
+        "team-name": "Strasbourg",
+        "price": "€4,03",
+        "img": ""
+      }, {
         "id": 76,
-        "team_name": "Zerk",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/142x100.png/ff4444/ffffff"
-    },
-    {
+        "team-name": "Brest",
+        "price": "€2,58",
+        "img": ""
+      }, {
         "id": 77,
-        "team_name": "Dorolisa",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/136x100.png/dddddd/000000"
-    },
-    {
+        "team-name": "Troyes",
+        "price": "€4,83",
+        "img": ""
+      }, {
         "id": 78,
-        "team_name": "Modesty",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/219x100.png/5fa2dd/ffffff"
-    },
-    {
+        "team-name": "Auxerre",
+        "price": "€4,77",
+        "img": ""
+      }, {
         "id": 79,
-        "team_name": "Blaine",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/204x100.png/ff4444/ffffff"
-    },
-    {
+        "team-name": "Ajaccio",
+        "price": "€8,65",
+        "img": ""
+      }, {
         "id": 80,
-        "team_name": "Florry",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": "http://dummyimage.com/248x100.png/dddddd/000000"
-    }
+        "team-name": "Angers",
+        "price": "€4,87",
+        "img": ""
+      },
+      {
+        "id": 81,
+        "team-name": "Bayern Munich",
+        "price": "€6,06",
+        "img": ""
+      }, {
+        "id": 82,
+        "team-name": "B Dormuntd",
+        "price": "€9,67",
+        "img": ""
+      }, {
+        "id": 83,
+        "team-name": "Union Berlin",
+        "price": "€9,62",
+        "img": ""
+      }, {
+        "id": 84,
+        "team-name": "Friburgo",
+        "price": "€0,53",
+        "img": ""
+      }, {
+        "id": 85,
+        "team-name": "Leizpig",
+        "price": "€7,87",
+        "img": ""
+      }, {
+        "id": 86,
+        "team-name": "Frankfurt",
+        "price": "€4,99",
+        "img": ""
+      }, {
+        "id": 87,
+        "team-name": "B Monchengladbach",
+        "price": "€8,74",
+        "img": ""
+      }, {
+        "id": 88,
+        "team-name": "Mainz",
+        "price": "€5,07",
+        "img": ""
+      }, {
+        "id": 89,
+        "team-name": "Bayer Leverkusen",
+        "price": "€0,60",
+        "img": ""
+      }, {
+        "id": 90,
+        "team-name": "Werder Bremen",
+        "price": "€1,89",
+        "img": ""
+      }, {
+        "id": 91,
+        "team-name": "Koln",
+        "price": "€7,57",
+        "img": ""
+      }, {
+        "id": 92,
+        "team-name": "Wolfsburgo",
+        "price": "€0,49",
+        "img": ""
+      }, {
+        "id": 93,
+        "team-name": "Augsburgo",
+        "price": "€6,26",
+        "img": ""
+      }, {
+        "id": 94,
+        "team-name": "Stuttgart",
+        "price": "€7,59",
+        "img": ""
+      }, {
+        "id": 95,
+        "team-name": "Hoffenheim",
+        "price": "€4,03",
+        "img": ""
+      }, {
+        "id": 96,
+        "team-name": "Bochum",
+        "price": "€2,58",
+        "img": ""
+      }, {
+        "id": 97,
+        "team-name": "Hertha",
+        "price": "€4,83",
+        "img": ""
+      }, {
+        "id": 98,
+        "team-name": "Schalke",
+        "price": "€4,77",
+        "img": ""
+      }, {
+        "id": 99,
+        "team-name": "",
+        "price": "€8,65",
+        "img": ""
+      }, {
+        "id": 100,
+        "team-name": "",
+        "price": "€4,87",
+        "img": ""
+      }
+    
 ]
