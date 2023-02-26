@@ -5,6 +5,7 @@ const cors = require('cors');
 
 const teams = require("./teams.json");
 
+app.use(cors())
 app.get("/", (request, response) => {
     response.send({response: true, code: 200, teams: teams});
 });
