@@ -2,563 +2,650 @@
     {
         "id": 1,
         "team_name": "Barcelona",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152185/IMG-4798_jnbpkv.jpg"
     },
     {
         "id": 2,
         "team_name": "Real Madrid",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152306/IMG-4802_xuyvw8.jpg"
     },
     {
         "id": 3,
         "team_name": "Real Sociedad",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677155994/71f4ca0eed64d9e6cc760bc1476d646658554080_slt1eh.jpg"
     },
     {
         "id": 4,
         "team_name": "Atlético de Madrid",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152167/IMG-4795_xqpuuv.jpg"
     },
     {
         "id": 5,
         "team_name": "Real Betis",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677155965/camiseta-hummel-real-betis-balompie-primera-equipacion-2022-2023-nino-jelly-bean-0_dntbex.jpg"
     },
     {
         "id": 6,
         "team_name": "Rayo Vallecano",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156054/camiseta-umbro-rayo-vallecano-de-madrid-primera-equipacion-2021-2022-blanco-rojo-0_jm3c4q.jpg"
     },
     {
         "id": 7,
         "team_name": "Athletic Club",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156075/athletic-club-home-shirt-junior-22-23-rjbl-2022-2023_oohuwr.jpg"
     },
     {
         "id": 8,
         "team_name": "Mallorca",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152350/IMG-4815_yugyh5.jpg"
     },
     {
         "id": 9,
         "team_name": "Villarreal",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152285/IMG-4806_i8efh8.jpg"
     },
     {
         "id": 10,
         "team_name": "Oosasuna",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156098/Jerseys-Osasuna-2014-2015-Osasuna-Adidas-Home-Football-Shirt--Kids--l_jnvn8g.jpg"
     },
     {
         "id": 11,
         "team_name": "Girona",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156401/camiseta-puma-girona-fc-primera-equipacion-2022-2023-nino-high-risk-red-white-0_ayqcu6.jpg"
     },
     {
         "id": 12,
         "team_name": "Sevilla",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152332/IMG-4812_okkm5z.jpg"
     },
     {
         "id": 13,
         "team_name": "Espanyol",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152340/IMG-4814_xbyn4z.jpg"
     },
     {
         "id": 14,
         "team_name": "Celta de Vigo",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156420/camiseta-adidas-rc-celta-de-vigo-primera-equipacion-2022-2023-cyan-0_jryos8.jpg"
     },
     {
         "id": 15,
         "team_name": "Valladolid",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156171/camiseta-adidas-real-valladolid-club-de-futbol-primera-equipacion-2021-2022-nino-purple-white-0_hhij8y.jpg"
     },
     {
         "id": 16,
         "team_name": "Getafe",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156192/AC102560A722_1_vpzuv9.jpg"
     },
     {
         "id": 17,
         "team_name": "Almeria",
-        "price": "",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156201/TM2630_FIERY_RED_1_970x_ffgyl1.jpg"
     },
     {
         "id": 18,
         "team_name": "Cadiz",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156210/camiseta-adidas-cadiz-cf-primera-equipacion-2020-2021-amarillo-0_ymsegf.jpg"
     },
     {
         "id": 19,
         "team_name": "Valencia",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677152297/IMG-4804_rkdekg.jpg"
     },
     {
         "id": 20,
         "team_name": "Elche",
-        "price": "25€",
+        "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677156224/frontal-1_uk1zz1.jpg"
     },
     {
         "id": 21,
         "team_name": "Arsenal",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697392/camiseta-adidas-arsenal-fc-primera-equipacion-authentic-2022-2023-scarlet-white-0_rokfxb.jpg"
     },
     {
         "id": 22,
         "team_name": "Man City",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696826/tottenham-hotspur-22-23-home-kit-5_somk66.jpg"
     },
     {
         "id": 23,
         "team_name": "Tottenham",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696826/tottenham-hotspur-22-23-home-kit-5_somk66.jpg"
     },
     {
         "id": 24,
         "team_name": "Newcastle",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697496/TM1214_BLACKWHITE_011_1_600x_wn6fzk.jpg"
     },
     {
         "id": 25,
         "team_name": "Man United",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696827/man_20utd_2022_2023_20home_20kit_20_288_29_lbzbfz.jpg"
     },
     {
         "id": 26,
         "team_name": "Fulham",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696828/4238-361_yutfwg.jpg"
     },
     {
         "id": 27,
         "team_name": "Brighton",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696869/3204-505_pigihe.jpg"
     },
     {
         "id": 28,
-        "team_name": "Liverpoll",
-        "price": "25€",
-        "img": ""
+        "team_name": "Liverpool",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696828/liverpool-22-23-home-kit-9_jzsb86.jpg"
     },
     {
         "id": 29,
         "team_name": "Brentford",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696868/brentford-21-22-kit-1_hircid.jpg"
     },
     {
         "id": 30,
         "team_name": "Chelsea",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696868/chelsea-22-23-home-kit-7_qij44d.jpg"
     },
     {
         "id": 31,
         "team_name": "Aston Villa",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696869/castore-aston-villa-22-23-home-kit-7_rc9onk.jpg"
     },
     {
         "id": 32,
         "team_name": "Crystal Palace",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696869/crystal-palace-22-23-home-kit-5_gghpkp.jpg"
     },
     {
         "id": 33,
         "team_name": "Nottinham Forest",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697056/New-Nottingham-Forest-Home-Kit-2012-13_szhe22.jpg"
     },
     {
         "id": 34,
         "team_name": "Leicester City",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697069/Lei1a_gnfxxg.jpg"
     },
     {
         "id": 35,
         "team_name": "Wolves",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697078/Wol1a_pknfrs.jpg"
     },
     {
         "id": 36,
         "team_name": "Everton",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697108/everton-22-23-home-kit-7_vrofq0.jpg"
     },
     {
         "id": 37,
         "team_name": "Bournemouth",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697120/bournemouth-22-23-premier-league-home-kit-7_zagcmd.jpg"
     },
     {
         "id": 38,
         "team_name": "West Ham",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697085/west-ham-22-23-home-kit_20_281_29_hgtldt.jpg"
     },
     {
         "id": 39,
         "team_name": "Leeds United",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697098/leeds-22-23-home-kit_20_281_29_llid4m.jpg"
     },
     {
         "id": 40,
         "team_name": "Southampton",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677697136/Southampton_2022-23_20home_20_289_29_szxhud.jpg"
     },
     {
         "id": 41,
         "team_name": "Napoli",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696281/ssc-napoli-home-match-shirt-20222023_m8yzeu.jpg"
     },
     {
         "id": 42,
         "team_name": "Inter",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696290/inter-22-23-home-kit-1_lqj2wf.jpg"
     },
     {
         "id": 43,
         "team_name": "Roma",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696322/roma-22-23-kit-7_mzsgbu.jpg"
     },
     {
         "id": 44,
         "team_name": "Lazio",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696314/lazio_2022_2023_20kits_20_281_29_rtoxn0.jpg"
     },
     {
         "id": 45,
         "team_name": "Atalanta",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696329/Atalanta_2022-23_20kits_20_2815_29_e9a6lk.jpg"
     },
     {
         "id": 46,
         "team_name": "Juventus",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696340/product_t5w2ez.jpg"
     },
     {
         "id": 47,
         "team_name": "Bologna",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696349/Bologna_2022-23_20home_20and_20away_20_289_29_icyggn.jpg"
     },
     {
         "id": 48,
         "team_name": "Torino",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696360/torino-22-23-home-kit-6_rzomsu.jpg"
     },
     {
         "id": 49,
         "team_name": "Udinese",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696368/udinese-22-23-home-kit-2_pbezz1.jpg"
     },
     {
         "id": 50,
         "team_name": "Monza",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696376/Monza_2022-23_20kits_20_281_29_jfiowf.jpg"
     },
     {
         "id": 51,
         "team_name": "Empoli",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696399/empoli-22-23-home-away-third-kits-4_ddmcv1.jpg"
     },
     {
         "id": 52,
         "team_name": "Lecce",
-        "price": "25€",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696428/62dec3f74d05a_fughmi.jpg"
     },
     {
         "id": 53,
         "team_name": "Fiorentina",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696390/Fiorentina_2022-23_20kits_20_289_29_oxa7ch.jpg"
     },
     {
         "id": 54,
         "team_name": "Sassuolo",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696413/77889769_max_ajrw3q.jpg"
     },
     {
         "id": 55,
         "team_name": "Salernitana",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696462/salernitana-22-23-home-away-third-kits-2_bnqoey.jpg"
     },
     {
         "id": 56,
         "team_name": "Spezia",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696470/spezia-calcio-22-23-home-away-goalkeeper-kits-4_m68qdc.jpg"
     },
     {
         "id": 57,
         "team_name": "Verona",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696482/df2ac640bf9bfbb08f51b72e18e5aeff58554956_ysnpnj.jpg"
     },
     {
         "id": 58,
         "team_name": "Sampdoria",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696498/sampdoria-22-23-home-away-third-goalkeeper-kits-6_a0fobv.jpg"
     },
     {
         "id": 59,
         "team_name": "Cremonese",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696490/145655691_max_meiugm.jpg"
     },
     {
         "id": 60,
         "team_name": "Milan",
-        "price": "error: undefined method `*' for nil:NilClass",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696307/New-AC-Milan-Jersey-2022-2023_fhhhjs.jpg"
     },
     {
         "id": 61,
         "team-name": "PSG",
-        "price": "€6,06",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692230/dm1844_411_nike_psg_home_jsy_2022_23_01_lewe5p.jpg"
       }, {
         "id": 62,
         "team-name": "Marseille",
-        "price": "€9,67",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692217/marseille-21-22-home-kit-3_e041uc.jpg"
       }, {
         "id": 63,
         "team-name": "Monaco",
-        "price": "€9,62",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692246/as-monaco-22-23-kit-1_ybbuaa.jpg"
       }, {
         "id": 64,
         "team-name": "Lens",
-        "price": "€0,53",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692264/df97dvp-344a641c-56d4-44de-a609-28d10909f7d1.jpg_bmpzsd.jpg"
       }, {
         "id": 65,
         "team-name": "Rennes",
-        "price": "€7,87",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692274/camiseta-puma-stade-rennes-fc-primera-equipacion-2022-2023-red-black-0_fol7du.jpg"
       }, {
         "id": 66,
         "team-name": "LOSC",
-        "price": "€4,99",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692293/lille-21-22-kit-2_fjdvtt.jpg"
       }, {
         "id": 67,
         "team-name": "Lorient",
-        "price": "€8,74",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692323/8pyovetpqhn71_po1usd.jpg"
       }, {
         "id": 68,
         "team-name": "Lyon",
-        "price": "€5,07",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692330/camiseta-adidas-olympique-de-lyon-primera-equipacion-2022-2023-white-0_rxzwaj.jpg"
       }, {
         "id": 69,
         "team-name": "Nice",
-        "price": "€0,60",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692304/Nice1a_i4uexa.jpg"
       }, {
         "id": 70,
         "team-name": "Reims",
-        "price": "€1,89",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692338/Reims_2022-23_20Home_20Kit_20_282_29_w4ovis.jpg"
       }, {
         "id": 71,
         "team-name": "Toulouse",
-        "price": "€7,57",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692352/toulouse-21-22-kits-craft_2B_25284_2529_hfb47y.jpg"
       }, {
         "id": 72,
         "team-name": "Clermont Foot",
-        "price": "€0,49",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692379/clermont-foot-away-2022-2023-football-shirt-archive_orig_ovutpb.png"
       }, {
         "id": 73,
         "team-name": "Nantes",
-        "price": "€6,26",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677692392/Nantes_2022-23_20home_20_284_29_hmllce.jpg"
       }, {
         "id": 74,
         "team-name": "Montpellier",
-        "price": "€7,59",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696121/nike_20montpellier_2022_2023_20home_20kit_20_284_29_bcvqlq.jpg"
       }, {
         "id": 75,
         "team-name": "Strasbourg",
-        "price": "€4,03",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696122/STR1a_gbn6f8.jpg"
       }, {
         "id": 76,
         "team-name": "Brest",
-        "price": "€2,58",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696190/brest-22-23-away-kit-5_qa3zbz.jpg"
       }, {
         "id": 77,
         "team-name": "Troyes",
-        "price": "€4,83",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696201/estac-troyes-22-23-home-away-kits-4_rhxnli.jpg"
       }, {
         "id": 78,
         "team-name": "Auxerre",
-        "price": "€4,77",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696150/58533921_nmvpze.jpg"
       }, {
         "id": 79,
         "team-name": "Ajaccio",
-        "price": "€8,65",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696175/ACA1_x6s4zz.jpg"
       }, {
         "id": 80,
         "team-name": "Angers",
-        "price": "€4,87",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696212/6203ed96ae30f_ezvuwt.jpg"
       },
       {
         "id": 81,
         "team-name": "Bayern Munich",
-        "price": "€6,06",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696520/fc-bayern-22-23-kit-3_oawuyi.jpg"
       }, {
         "id": 82,
         "team-name": "B Dormuntd",
-        "price": "€9,67",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696551/camiseta-puma-borussia-dortmund-primera-equipacion-2022-2023-nino-cyber-yellow-0_mjdcdo.jpg"
       }, {
         "id": 83,
         "team-name": "Union Berlin",
-        "price": "€9,62",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696560/FCU1a_rcs5fa.jpg"
       }, {
         "id": 84,
         "team-name": "Friburgo",
-        "price": "€0,53",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696576/SCF1a_kqthnd.jpg"
       }, {
         "id": 85,
         "team-name": "Leizpig",
-        "price": "€7,87",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696568/RBL1a_g3hbin.jpg"
       }, {
         "id": 86,
         "team-name": "Frankfurt",
-        "price": "€4,99",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696585/frankfurt-22-23-third-kit_uabri7.jpg"
       }, {
         "id": 87,
         "team-name": "B Monchengladbach",
-        "price": "€8,74",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696652/82139459_max_j6kjpd.jpg"
       }, {
         "id": 88,
         "team-name": "Mainz",
-        "price": "€5,07",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696614/mainz-22-23-kit-2_fjcoeq.jpg"
       }, {
         "id": 89,
         "team-name": "Bayer Leverkusen",
-        "price": "€0,60",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696665/leverkusen-22-23-home-kit-8_doy1zp.jpg"
       }, {
         "id": 90,
         "team-name": "Werder Bremen",
-        "price": "€1,89",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696622/SVW1a_gxubij.jpg"
       }, {
         "id": 91,
         "team-name": "Koln",
-        "price": "€7,57",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696676/koln-22-23-home-kit-2_ipgcci.jpg"
       }, {
         "id": 92,
         "team-name": "Wolfsburgo",
-        "price": "€0,49",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696607/New-VFL-Wolfsburg-Jersey-2022-2023_bgdhaf.jpg"
       }, {
         "id": 93,
         "team-name": "Augsburgo",
-        "price": "€6,26",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696684/FCA1a_kphwx2.jpg"
       }, {
         "id": 94,
         "team-name": "Stuttgart",
-        "price": "€7,59",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696704/New-VFB-Stuttgart-Home-Jersey-2022-2023_owpjev.jpg"
       }, {
         "id": 95,
         "team-name": "Hoffenheim",
-        "price": "€4,03",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696720/Hoffenheim_2022-23_20Home_20Kit_20_20_2810_29_jvorkb.jpg"
       }, {
         "id": 96,
         "team-name": "Bochum",
-        "price": "€2,58",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696735/1536244241-bochum-concept-airo-front_dxxvrq.jpg"
       }, {
         "id": 97,
         "team-name": "Hertha",
-        "price": "€4,83",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696696/BSC1c_c4load.jpg"
       }, {
         "id": 98,
         "team-name": "Schalke",
-        "price": "€4,77",
-        "img": ""
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696746/schalke-22-23-home-kit_20_282_29_pardkk.jpg"
       }, {
         "id": 99,
         "team-name": "",
-        "price": "€8,65",
+        "price": "25",
         "img": ""
       }, {
         "id": 100,
         "team-name": "",
-        "price": "€4,87",
+        "price": "25",
+        "img": ""
+      },
+      {
+        "id": 101,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 102,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      },
+      {
+        "id": 103,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 104,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      },
+      {
+        "id": 105,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 106,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      },
+      {
+        "id": 107,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 108,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      },{
+        "id": 109,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 110,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      },
+      {
+        "id": 111,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 112,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      },
+      {
+        "id": 113,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 114,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      },
+      {
+        "id": 115,
+        "team-name": "",
+        "price": "25",
+        "img": ""
+      }, {
+        "id": 116,
+        "team-name": "",
+        "price": "25",
         "img": ""
       }
     
