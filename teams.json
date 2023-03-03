@@ -552,66 +552,66 @@
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677696746/schalke-22-23-home-kit_20_282_29_pardkk.jpg"
       }, {
         "id": 99,
-        "team_name": "",
-        "price": "25",
-        "img": ""
+        "team_name": "Sorpresa NBA",
+        "price": "50",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861488/Mistery-nba_snlpde.webp"
       }, {
         "id": 100,
-        "team_name": "",
-        "price": "25",
-        "img": ""
+        "team_name": "Sorpresa Camisetas",
+        "price": "50",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861480/mistery-fut_j7cagm.webp"
       },
       {
         "id": 101,
-        "team_name": "",
-        "price": "25",
-        "img": ""
+        "team_name": "Sorpresa Chandal",
+        "price": "50",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861468/mistery-chandal_lgirss.webp"
       }, {
         "id": 102,
-        "team_name": "",
+        "team_name": "Charlotte Hornets",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700885/charlotte-hornets-icon-edition-2022-23-jordan-dri-fit-nba-swingman-jersey-lnJcXw_aefnlr.jpg"
       },
       {
         "id": 103,
-        "team_name": "",
+        "team_name": "Pistons",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700878/detroit-pistons-2022-23-classic-jersey_lijktz.jpg"
       }, {
         "id": 104,
-        "team_name": "",
+        "team_name": "Orlando Magic",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700864/orlando-magic-2022-23-statement-jersey_oe4uqg.jpg"
       },
       {
         "id": 105,
-        "team_name": "",
+        "team_name": "Pacers",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700850/indiana-pacers-2020-23-statement-jersey_kxgckh.jpg"
       }, {
         "id": 106,
-        "team_name": "",
+        "team_name": "Chicago Bulls",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700840/chicago-bulls-2022-23-city-jersey_q8s33r.jpg"
       },
       {
         "id": 107,
-        "team_name": "",
+        "team_name": "Wizards",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700830/washington-wizards-2022-23-city-jersey_e68hhw.jpg"
       }, {
         "id": 108,
-        "team_name": "",
+        "team_name": "Raptors",
         "price": "25",
         "img": ""
       },{
         "id": 109,
-        "team_name": "",
+        "team_name": "Atlanta Hawks",
         "price": "25",
         "img": ""
       }, {
         "id": 110,
-        "team_name": "",
+        "team_name": "Miami Heat",
         "price": "25",
         "img": ""
       },
