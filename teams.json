@@ -603,50 +603,123 @@
         "id": 108,
         "team_name": "Raptors",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700817/toronto-raptors-2022-23-city-jersey_yxx6fi.jpg"
       },{
         "id": 109,
         "team_name": "Atlanta Hawks",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700808/atlanta-hawks-2020-23-association-jersey_ab6rlm.jpg"
       }, {
         "id": 110,
         "team_name": "Miami Heat",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700798/miami-heat-2022-23-city-jersey_ejsprh.jpg"
       },
       {
         "id": 111,
-        "team_name": "",
+        "team_name": "Nets",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700740/brooklyn-nets-2022-23-city-jersey_f2pevi.jpg"
       }, {
         "id": 112,
-        "team_name": "",
+        "team_name": "Nicks",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700721/new-york-knicks-2022-23-city-jersey_afrl8e.jpg"
       },
       {
         "id": 113,
-        "team_name": "",
+        "team_name": "Cavaliers",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700711/BFFPE35VEFG7HHWO7GCYGDW5XM_gveneu.jpg"
       }, {
         "id": 114,
-        "team_name": "",
+        "team_name": "Philadelphia",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700686/philadelphia-76ers-icon-edition-2022-23-dri-fit-nba-swingman-jersey-8mnb5b_flpkfx.jpg"
       },
       {
         "id": 115,
-        "team_name": "",
+        "team_name": "Boston Celtics",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700673/boston-celtics-2022-23-city-jersey_jlizak.jpg"
       }, {
         "id": 116,
-        "team_name": "",
+        "team_name": "Milwaukee Bucks",
         "price": "25",
-        "img": ""
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677700656/milwaukee-bucks-association-edition-2022-23-dri-fit-nba-swingman-jersey-f6ZcQM_tfvvcy.jpg"
+      },{
+        "id": 117,
+        "team_name": "Minesota",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861827/minnesota-timberwolves-2022-23-statement-jersey_yqx0nx.jpg"
+      }, {
+        "id": 118,
+        "team_name": "Utah Jazz",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861856/utah-jazz-2022-23-icon-jersey_zpy2ss.jpg"
+      },
+      {
+        "id": 119,
+        "team_name": "Mavericks",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861814/dallas-mavericks-2022-23-city-jersey_bkfeg9.jpg"
+      }, {
+        "id": 120,
+        "team_name": "Clippers",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861802/los-angeles-clippers-2022-23-statement-jersey_hvaqbc.jpg"
+      },{
+        "id": 121,
+        "team_name": "Warriors",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861768/golden-state-warriors-2022-23-association-jersey_rypj4h.jpg"
+      }, {
+        "id": 122,
+        "team_name": "Phoenix Suns",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861756/phoenix-suns-association-edition-2022-23-dri-fit-nba-swingman-jersey-btk5C6_rtijeh.jpg"
+      },
+      {
+        "id": 123,
+        "team_name": "Sacramento",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861729/sacramento-kings-2022-23-city-jersey_izcghd.jpg"
+      }, {
+        "id": 124,
+        "team_name": "Grizzlies",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861700/memphis-grizzlies-2022-23-statement-jersey_hzmojl.jpg"
+      },{
+        "id": 125,
+        "team_name": "Pelicans",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861865/new-orleans-pelicans-2022-23-city-jersey_ypqace.jpg"
+      }, {
+        "id": 126,
+        "team_name": "Lakers",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861898/los-angeles-lakers-2022-23-city-jersey_japr7u.jpg"
+      },{
+        "id": 127,
+        "team_name": "Oklahoma",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861914/oklahoma-city-thunder-2019-23-association-jersey_jecv7k.jpg"
+      }, {
+        "id": 128,
+        "team_name": "Portland",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861887/portland-trail-blazers-icon-edition-2022-23-dri-fit-nba-swingman-jersey-FjN1Bd_ixmcqa.jpg"
+      },
+      {
+        "id": 129,
+        "team_name": "Spurs",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861934/san-antonio-spurs-2022-23-statement-jersey_uwsbg4.jpg"
+      }, {
+        "id": 130,
+        "team_name": "Rockets",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861944/houston-rockets-2022-23-classic-jersey_olhbmf.jpg"
       }
     
 ]
