@@ -697,7 +697,7 @@
     },
     {
         "id": 117,
-        "team_name": "Minesota",
+        "team_name": "Minnesota",
         "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861827/minnesota-timberwolves-2022-23-statement-jersey_yqx0nx.jpg"
     },
@@ -778,5 +778,80 @@
         "team_name": "Rockets",
         "price": "25",
         "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861944/houston-rockets-2022-23-classic-jersey_olhbmf.jpg"
+    },
+
+
+    {
+        "id": 131,
+        "team_name": "Mavericks",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861814/dallas-mavericks-2022-23-city-jersey_bkfeg9.jpg"
+    },
+    {
+        "id": 132,
+        "team_name": "Clippers",
+        "price": "25",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1677861802/los-angeles-clippers-2022-23-statement-jersey_hvaqbc.jpg"
+    },
+    {
+        "id": 133,
+        "team_name": "PSG",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031259/8256-TTTY-Training-321_o9jnpg.jpg"
+    },
+    {
+        "id": 134,
+        "team_name": "Francia",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031221/chandal-francia-conjunto-2022-trizop-1_dgo8ep.webp"
+    },
+    {
+        "id": 135,
+        "team_name": "Barcelona",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031160/0e0e17dc-1381-4db3-a69a-038fbd0df3f6_bku369.jpg"
+    },
+    {
+        "id": 136,
+        "team_name": "Liverpool",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031150/liverpool_fc_technical_set_nike_tracksuit_2022_2023_chandal_entreno_lfc_reds_tuta_tecnica_suit_allenamento_training_trainingsanzug_rot_rouge_survetement_rjream.jpg"
+    },
+    {
+        "id": 137,
+        "team_name": "Juventus",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031124/juventus_training_presentation_soccer_tracksuit_bench_poly-2022_2023_chandal_entrenamiento_juve_adidas_survetement_bleu_vert_tuta_allenamento_rappresentanza_ckqe9n.jpg"
+    },
+    {
+        "id": 138,
+        "team_name": "Man City",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031109/2871-TTTY-kidtrain-153_rfyczb.jpg"
+    },
+    {
+        "id": 139,
+        "team_name": "Man United",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031072/IMG_7450_E5_89_AF_E6_9C_AC.jpg618A1_sahpt6.jpg"
+    },
+    {
+        "id": 140,
+        "team_name": "Colombia",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031049/colombia_national_team_colombia_fcf_soccer_technical_training_suit_tracksuit_adidas_football_2022_2023_sweat_sweatshirt_tech_chandal_entreno_seleccion_kolumbien_sudadera_entrenamiento_rbmign.jpg"
+    },
+    {
+        "id": 141,
+        "team_name": "Brasil",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031034/brazil-football-training-technical-tracksuit-202223-nike_wipfqu.jpg"
+    },
+    {
+        "id": 142,
+        "team_name": "España",
+        "price": "30",
+        "img": "https://res.cloudinary.com/dgglcnffv/image/upload/v1678031002/spain-navy-training-bench-tracksuit-202223-adidas_meucgu.jpg"
     }
+
 ]
